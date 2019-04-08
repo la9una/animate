@@ -1,6 +1,6 @@
 # Catequesis
 
-Apuntes sobre dibujo y animación digital 
+Apuntes sobre ilustración y animación digital
 
 [rauljesus.xyz/catequesis](http://rauljesus.xyz/animate)
 
