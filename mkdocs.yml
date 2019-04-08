@@ -1,12 +1,12 @@
 # Información general
-site_name: 'Catequesis'
-site_description: 'Apuntes sobre la fe católica'
+site_name: 'Dibujo y animación'
+site_description: 'Apuntes sobre la dibujo y animación digital'
 site_author: 'Raul Jesus Lopez'
-site_url: http://www.rauljesus.xyz/catequesis
+site_url: http://www.rauljesus.xyz/animate
 
 # Repositorio
 repo_name: 'Ver en GitHub'
-repo_url: 'https://github.com/la9una/catequesis'
+repo_url: 'https://github.com/la9una/animate'
 
 # Copyright
 copyright: '2018 &nbsp; Raul Jesus Lopez'
@@ -16,8 +16,8 @@ theme:
   name: 'material'
   language: 'es'
   palette:
-    primary: 'yellow'
-    accent: 'yellow'
+    primary: 'pink'
+    accent: 'pink'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -73,7 +73,4 @@ extra_javascript:
 # Páginas
 nav: 
 - Inicio: 'index.md'
-- Creemos: 
-    - Preguntas fundamentales: 'creemos/hierofanias.md'
-    - Razones para creer: 'creemos/las5vias.md'
 
