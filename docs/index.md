@@ -1,11 +1,6 @@
 # Bienvenid@s
 
->“No estamos en paz con otros porque no estamos en paz con nosotros mismos. Y
-no estamos en paz con nosotros mismos porque no estamos en paz
-con Dios” 
+Sitio web de recursos para 2A de informática, sobre ilustración digital y animación empleando las herramientas [Inkscape](https://inkscape.org/es/) y [Scratch](https://scratch.mit.edu/). 
 
-_Thomas Merton_
+![Inkscape & Scratch](front.png)
 
-![Icono de la Sagrada Familia](sagrada_familia.png)
-
-_Imagen: http://www.pjlatinoamericana.org_

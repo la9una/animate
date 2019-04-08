@@ -1,8 +1,8 @@
 # Catequesis
 
-Apuntes y reflexiones en torno a la fe cristiana católica
+Apuntes sobre dibujo y animación digital 
 
-[rauljesus.xyz/catequesis](http://rauljesus.xyz/catequesis)
+[rauljesus.xyz/catequesis](http://rauljesus.xyz/animate)
 
 Prof. Raúl Jesús López
 

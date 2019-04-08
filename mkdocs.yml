@@ -73,4 +73,6 @@ extra_javascript:
 # Páginas
 nav: 
 - Inicio: 'index.md'
-
+- Dibujo: 
+    - Inkscape: 'inkscape/index.md'
+    - Anexo: 'inkscape/anexo.md'
