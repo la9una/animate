@@ -4,8 +4,6 @@
 ## Curvas Bézier
 * [The Bezier Game](https://bezier.method.ac/)
 * [The beginner's class lecture of the Bezier curve for Adobe Illustrator](http://bezier.dodofactory.net/)
-* [Ejercicicio 1](docsInkscape/bezier_1.zip)
-* [Ejercicicio 2](docsInkscape/bezier_2.zip)
 
 ### Tutoriales
 
