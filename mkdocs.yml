@@ -76,3 +76,5 @@ nav:
 - Dibujo: 
     - Inkscape: 'inkscape/index.md'
     - Anexo: 'inkscape/anexo.md'
+- Programación: 
+    - Scratch: 'scratch/index.md'
